@@ -67,13 +67,13 @@ cd smart-simulators
 **3. Execute o analisador de clima**
 
 ```bash
-python untitled3.py
+python main1.py
 ```
 
 **4. Execute o simulador de evacuação**
 
 ```bash
-python untitled4.py
+python main2.py
 ```
 
 > 💡 Caso esteja utilizando o Google Colab ou Jupyter Notebook, abra os arquivos correspondentes e execute as células de código.
@@ -83,13 +83,13 @@ python untitled4.py
 ```text
 smart-simulators/
 ├── README.md
-├── untitled3.py
-└── untitled4.py
+├── main1.py
+└── main2.py
 ```
 
 - 📘 `README.md`: documentação e instruções de execução.
-- 🌡️ `untitled3.py`: módulo de análise ambiental e conforto térmico.
-- 🚪 `untitled4.py`: módulo de simulação de evacuação.
+- 🌡️ `main1.py`: módulo de análise ambiental e conforto térmico.
+- 🚪 `main2.py`: módulo de simulação de evacuação.
 
 ## 💻 Acesse o Projeto
 
