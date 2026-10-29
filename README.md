@@ -93,9 +93,9 @@ smart-simulators/
 
 ## 💻 Acesse o Projeto
 
-🐍 **[Visualizar código-fonte — Analisador de Clima (untitled3.py)](main1.py)**
+🐍 **[Visualizar código-fonte — Analisador de Clima (main1.py)](main1.py)**
 
-🐍 **[Visualizar código-fonte — Simulador de Evacuação (untitled4.py)](untitled4.py)**
+🐍 **[Visualizar código-fonte — Simulador de Evacuação (main2.py)](main2.py)**
 
 📁 **[Acessar pasta do projeto no GitHub](https://github.com/chagasmatheus1211/portfolio-matheus-chagas-mauriz-coque/tree/main)**
 
