@@ -97,8 +97,6 @@ smart-simulators/
 
 🐍 **[Visualizar código-fonte — Simulador de Evacuação (main2.py)](main2.py)**
 
-📁 **[Acessar pasta do projeto no GitHub](https://github.com/chagasmatheus1211/portfolio-matheus-chagas-mauriz-coque/tree/main)**
-
 ## 👤 Autor
 
 **Matheus Chagas Mauriz Coque**
